@@ -10,6 +10,3 @@ sounddevice>=0.4.4
 mediapipe
 opencv-python
 datetime
-os
-random
-threading
