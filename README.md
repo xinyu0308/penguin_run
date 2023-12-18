@@ -10,7 +10,7 @@ Download the Zip and extract it's contents.
 
 -	Then download the dependencies using:
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Usage:
