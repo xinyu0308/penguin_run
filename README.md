@@ -15,9 +15,9 @@ pip install -r requirements.txt
 
 ### Usage:
 
--	After installation, just run the [`let_exercise.py`](https://github.com/xinyu0308/penguin_run/blob/main/let_exercise.py) using
+-	After installation, just run the [`exercise.py`](https://github.com/xinyu0308/penguin_run/blob/main/exercise.py) using
 ```
-python let_exercise.py
+python exercise.py
 ```
 
 
