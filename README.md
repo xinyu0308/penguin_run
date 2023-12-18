@@ -23,6 +23,6 @@ python exercise.py
 
 ### References:
 -	http://www.pygame.org/docs
--	https://en.wikipedia.org/wiki/Dinosaur_Game
 -	https://github.com/dhhruv/Chrome-Dino-Runner/tree/master
+-	https://github.com/Pradnya1208/Squats-angle-detection-using-OpenCV-and-mediapipe_v1
 -	Various articles and videos.
