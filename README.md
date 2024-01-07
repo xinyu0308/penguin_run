@@ -19,7 +19,8 @@ pip install -r requirements.txt
 ```
 python exercise.py
 ```
-
+### Demo video:
+- https://drive.google.com/file/d/1GRg7FmaVhPEg42D0cg7TmM2LIYAvv6st/view?usp=sharing
 
 ### References:
 -	http://www.pygame.org/docs
